@@ -128,28 +128,10 @@ Visit `http://localhost:8000` in your browser.
 
 
 
+say for august 2025. user can pick max 5 days out of next 2 weeks. 
+place 5 days and pick 4 categories: get food, sight-seeing, go out, something random
 
 
-Add threaded comments for better discussions
-Add location-based event exploration (e.g., with a map)
-Implement social authentication (Google, GitHub)
-Add event categories and tags for better filtering (good first issue)
-Enable event sharing on social media
-
-
-## Roadmap
-We have a lot of exciting features planned! Here are some ideas, many of which are great for first-time contributors.
-- [ ] Add a comprehensive test suite (help wanted, sprint)
-- [ ] Implement REST API for a mobile-friendly experience
-- [ ] Add threaded comments for better discussions
-- [ ] Add location-based event exploration (e.g., with a map)
-- [ ] Implement social authentication (Google, GitHub)
-- [ ] Add event categories and tags for better filtering (good first issue)
-- [ ] Enable event sharing on social media
-
-## Contributing
-Contributions are welcome! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-Please feel free to submit a Pull Request. See our Contributing Guide for details on our code of conduct and the process for submitting pull requests to us.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
